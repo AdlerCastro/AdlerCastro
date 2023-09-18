@@ -8,7 +8,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://beacons.ai/AdlerCastro">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AdlerCastro&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-AdlerCastro.vercel.app/api/top-langs/?username=AdlerCastro&show_icons=true&theme=radical&layout=compact" />
+<img height= "180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=AdlerCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height= "180em" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdlerCastro&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
