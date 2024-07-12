@@ -7,7 +7,7 @@
 - A university study and research group that enables the practice and experience of programming techniques in the area of ​​Digital Games Development and gamified     solutions;
 
 ### Skills
-<p align="center">
+<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
             width="36" height="36" alt="C" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
