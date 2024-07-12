@@ -6,7 +6,7 @@
 - 🎮Gamelab Member;
 - A university study and research group that enables the practice and experience of programming techniques in the area of ​​Digital Games Development and gamified     solutions;
 
----
+##
 
 ### Skills
 <p align="center">
@@ -34,7 +34,7 @@
         width="50" height="50" alt="TailwindCSS" /></a>
 </p>
 
----
+##
 <br/>
 
 <div align="center" style="margin-bottom:200px">
