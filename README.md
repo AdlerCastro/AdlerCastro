@@ -7,7 +7,6 @@
 - A university study and research group that enables the practice and experience of programming techniques in the area of ​​Digital Games Development and gamified     solutions;
 
 ---
-<br/>
 
 ### Skills
 <p align="center">
@@ -34,7 +33,6 @@
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
         width="50" height="50" alt="TailwindCSS" /></a>
 </p>
-<br/>
 
 ---
 
@@ -44,7 +42,8 @@
 <div align="center">
 <a href="https://github.com/AdlerCastro">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdlerCastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</a> &emsp;
+</a>
+<br/>
 <a href="https://git.io/streak-stats">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdlerCastro&theme=radical&border_radius=15&background=45%2C2C2C2C%2C000000" alt="GitHub Streak" />
 </a>
