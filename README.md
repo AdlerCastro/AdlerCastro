@@ -6,7 +6,7 @@
 - 🎮Gamelab Member;
 - A university study and research group that enables the practice and experience of programming techniques in the area of ​​Digital Games Development and gamified     solutions;
 
-###Skills
+### Skills
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
