@@ -34,9 +34,6 @@
 
 <div align="center" style="margin-bottom:200px">
             
-<a href="https://github.com/AdlerCastro">
-            <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdlerCastro&layout=donut-vertical&theme=radical"/>
-</a>            
 
 <div align="center">
 <a href="https://github.com/AdlerCastro">
@@ -47,4 +44,7 @@
 </a>
 </div>
 
+<a href="https://github.com/AdlerCastro">
+            <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdlerCastro&layout=donut-vertical&theme=radical"/>
+</a>            
 </div>
