@@ -43,7 +43,7 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdlerCastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 <br/>
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/AdlerCastro">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdlerCastro&theme=radical&border_radius=15&background=45%2C2C2C2C%2C000000" alt="GitHub Streak" />
 </a>
 <br/>
