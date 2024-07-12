@@ -8,6 +8,7 @@
 
 <div align="center">
   <a href="https://beacons.ai/AdlerCastro"><img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdlerCastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+
   
   <a href="https://beacons.ai/AdlerCastro"><img height= "140em" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdlerCastro&layout=compact&langs_count=16&theme=tokyonight"/></a>
 </div>
