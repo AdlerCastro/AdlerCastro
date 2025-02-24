@@ -66,15 +66,20 @@
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
         width="50" height="50" alt="Postgresql" />
 </a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+        width="50" height="50" alt="Node.js" />
+</a>
 </div>
 
 ##
 
 <br/>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 5px;">
 
 <a href="https://github.com/AdlerCastro">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdlerCastro&theme=radical&border_radius=15&background=45%2C2C2C2C%2C000000" alt="GitHub Streak" />
