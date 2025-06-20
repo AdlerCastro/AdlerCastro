@@ -1,6 +1,6 @@
 ## Hi, i'm Adler Castro, welcome👋
 
-- 👨‍🎓Fifth semester student of Computer Engineering from CESUPA;
+- 👨‍🎓Sixth semester student of Computer Engineering from CESUPA;
 - 👾Member of the Engineering Office;
 - I'm a member of the Engineering Office, a university group, where professional skills in the area of ​​programming and electronics are developed, thereby helping students to enter the job market;
 - 🎮Gamelab Member;
