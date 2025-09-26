@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">👨‍💻 Adler Castro | Computer Engineering | Software Development & Innovation 🚀
+# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">👨‍💻 Adler Castro | Software Development & Innovation 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adler%20Castro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adler-augustus-de-castro-mota/)](https://www.linkedin.com/in/adler-augustus-de-castro-mota/)
 [![Gmail Badge](https://img.shields.io/badge/-adlercastro01@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adlercastro01@gmail.com)](mailto:adlercastro01@gmail.com)
